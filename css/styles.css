@@ -120,3 +120,6 @@
     button.danger{
         background-color: rgb(103, 27, 27);
     }
+tr >td> input{
+  width: 50px;
+}
